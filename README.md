@@ -1,7 +1,7 @@
-# 🍯 Honey House 🍯
+# 🍯 Honey House - Honey Shop Website 🍯
 
 <div style="display:flex; flex-direction:row;">
-<img style="width:100%;" src="Image/The.png">
+<img style="width:100%;" src="Honey-House-preview.png">
 </div>
 
 <center>
@@ -25,13 +25,14 @@
 
 ### 📝 Description
 
-TheTrack is a simulated website project created for educational purposes, aiming to provide a realistic overview of a karting training company website. The main goal of the project is to provide resources and information for the training company to showcase its services and attract potential clients.
+Honey House is a simulated website project created for educational purposes, aiming to provide a realistic overview of a honey shop website. The main goal of the project is to provide resources and information for the shop to showcase its products and attract potential customers.
 
 ## 🚀 Key Features
 
 - **Home:** Introduces information about the company and its services.
 - **Products:** Displays upcoming training sessions and races.
 - **Contacts:** Includes a contact form and contact information.
+- **Articles:** Articles with brief information.
 - **About Us:** Information about the company and its mission.
 
 ## 💻 Technologies
@@ -45,7 +46,7 @@ TheTrack is a simulated website project created for educational purposes, aiming
 
 1. Clone this repository to your local machine.
 2. Open index.html in your web browser.
-3. Explore TheTrack website.
+3. Explore Honey House website.
 
   <b><p>or</p></b>
   
